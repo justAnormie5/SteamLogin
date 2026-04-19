@@ -140,5 +140,28 @@
   body {
     background-color: var(--color-background);
     color: var(--color-foreground);
+    font-family: "Motiva Sans", Arial, Helvetica, sans-serif;
   }
 }
+
+/* Steam replica tokens */
+:root {
+  --steam-bg: #1b2838;
+  --steam-bg-deep: #171a21;
+  --steam-bg-deeper: #0e141b;
+  --steam-nav: #171a21;
+  --steam-subnav: #232d3d;
+  --steam-text: #c7d5e0;
+  --steam-text-muted: #8f98a0;
+  --steam-text-bright: #ffffff;
+  --steam-link: #66c0f4;
+  --steam-link-hover: #ffffff;
+  --steam-input-bg: #316282;
+  --steam-input-bg-2: #1f3346;
+  --steam-btn-from: #06bfff;
+  --steam-btn-to: #2d73ff;
+  --steam-btn-green-from: #75b022;
+  --steam-btn-green-to: #588a1b;
+  --steam-divider: #4b6b8a;
+}
+
