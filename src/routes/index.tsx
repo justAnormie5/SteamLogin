@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useState } from "react";
-import qr from "@/assets/steam-qr.png";
+import qr from "@/assets/steam-qr.svg";
 
 export const Route = createFileRoute("/")({
   component: SteamLogin,
